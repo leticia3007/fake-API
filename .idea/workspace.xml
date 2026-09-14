@@ -49,7 +49,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fca22d8e-d2a6-4453-99d9-3d67d103301b" name="Changes" comment="" />
+      <changelist id="595f8240-9a0e-4d1b-b0ee-46abdba56f4c" name="Changes" comment="alterei algumas coisas" />
       <created>1789419840917</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -63,7 +63,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789422311254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="alterei algumas coisas">
+      <option name="closed" value="true" />
+      <created>1789423027308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789423027308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="alterei algumas coisas">
+      <option name="closed" value="true" />
+      <created>1789423044904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789423044904</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
